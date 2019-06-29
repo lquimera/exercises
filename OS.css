@@ -1,0 +1,25 @@
+.jumbotron{
+    text-align: center;
+    color:rgb(79, 70, 158);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("image1.jpg");
+    font-size: 1500px;
+}
+.carousel-container{
+    width: 80%;
+    height: auto;
+    margin: auto;
+}
+
+.img-fluid{
+    max-width: 300px;
+    height: 250px;
+}
+
+.col-sm-4{
+    margin-top: 10px;
+}
+
+body{
+    background-color: rgb(207, 176, 181)
+}
